@@ -5,12 +5,15 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   background-color: darkgrey;
+  text-align: center;
 }
 
 h1 {
   padding: 20px 0px 10px 0px;
 }
 
-.align {
-  text-align: center;
+
+
+a {
+  color: #69CBBB;
 }
